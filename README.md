@@ -21,7 +21,7 @@ $rulesEngine->gen(['$a', 'dx12o32p2'], ['abc', '123456']);
 __DATA__
 Output:
 abca
-abcabc
+bcbcbc
 123456a
-123456123456
+232323
 ```
