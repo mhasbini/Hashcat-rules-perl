@@ -1,5 +1,5 @@
 Perl binding for Hashcat rule engine. Only support GPU compatible rules (
-  CPU rules are supported but length limitation is not applied so output may difer from Hashcat rule engine).
+  CPU rules are supported but length limitation is not applied so output may differ from Hashcat rule engine).
 
 ## Available parameters
 * verbose => 1 true, 0 false
